@@ -1,0 +1,6 @@
+server:
+  port: 8002
+
+netris:
+  rest:
+    camera-info-url: http://www.mocky.io/v2/5c51b9dd3400003252129fb5
